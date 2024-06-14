@@ -1,0 +1,64 @@
+.div_ace{
+    display: flex;
+}
+.bike_ace{
+    width: 505px;
+    height: 500px;
+}
+.bike_ivy{
+    width: 505px;
+    height: 500px;
+}
+.bike_div{
+    margin-left: 20px;
+}
+.bike_div1{
+    margin-left: 20px;
+}
+.div_main_ace{
+    background: rgba(235, 237, 238, 1);
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 8px;
+}
+.main_div_ivy{
+    background: rgba(235, 237, 238, 1);
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 8px;
+}
+.main_div{
+    display: flex;
+    margin-left: 240px;
+    font-family:Raleway;
+    margin-top: 240px;
+}
+.div_ivy{
+    display:flex;
+}
+.colors,.colors1{
+    margin-left: 240px;
+}
+.main_div_ivy{
+    margin-left: 120px;
+}
+.left,.right{
+    margin-bottom: 240px;
+}
+.t1,.t3{
+    margin-left: px;
+    font-weight: 500;
+    font-size: 30px;
+}
+.sup{
+    font-size: 10px;
+}
+.t2,.t4{
+    position: relative;
+    margin-top: 40px;
+    margin-left: 220px;
+    font-size: 20px;
+    font-weight: 400;
+}

@@ -1,0 +1,104 @@
+.footer_main{
+    display: flex ;
+    font-family: Raleway;
+    background: rgba(20, 22, 21, 1);
+    color: white;
+}
+.checkbox_div{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.exp_span{
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    line-height: 21px;
+}
+.exp_p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.ab_p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.ab_span{
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    line-height: 21px;
+}
+.help_p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.help_span{
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    line-height: 21px;
+}
+.jtr_p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.jtr_under_p{
+    font-size: 14px;
+    line-height: 21px;
+}
+.checkbox_p{
+    font-size: 14px;
+    line-height: 21px;
+}
+.jtr_but{
+    font-family: raleway;
+    font-size: 14px;
+    line-height: 21px;
+}
+.jtr_input{
+    font-family: raleway;
+    font-size: 14px;
+    line-height: 21px;
+}
+.left_footer{
+    display: grid;
+    grid-template-columns: 240px 180px 780px;
+    margin-left: 120px;
+    
+}
+.input_email{
+    border-radius: 80px;
+    border-color: white;
+}
+.jtr_input{
+    background-color: black;
+    border-radius: 80px;
+    border-right: 0px;
+    color: white;
+    width: 240px;
+    height: 34px;
+    margin-top: 10px;
+
+}
+.jtr_but{
+    border-radius: 80px;
+    border: none;
+    position: relative;
+    left: -40px;
+    height: 40px;
+    width: 120px;
+}
+.input_checkbox{
+    accent-color: black;
+}
+.input_checkbox[type="checkbox"]:not(:checked) {
+    background-color: black;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 16px; /* или любой другой размер */
+    height: 16px; /* или любой другой размер */
+    margin-top: 16.5px;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+    width: 135px;
+}

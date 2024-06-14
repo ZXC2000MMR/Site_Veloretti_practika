@@ -1,0 +1,63 @@
+.div_logo{
+    display:flex ;
+    color: black;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 20px;
+}
+.div_opitons{
+    margin-left: 60px;
+    display:flex ;
+
+}
+.sel_1, .sel_2, .sel_3, .sel_4, .but_1, .but_2{
+    border: none;
+    background-color: white ;
+    margin-right: 20px ;
+    font-family: Raleway;
+    height: 30px;
+    margin-top: 17px;
+
+
+}
+.sel_1:hover, .sel_2:hover, .sel_3:hover, .sel_4:hover, .but_1:hover, .but_2:hover{
+    background-color: rgb(220,220,220) ;
+    border-radius: 5px;
+    cursor: pointer; 
+}
+.but_1:active,.but_2:active,.sel_1:active,.sel_2:active,.sel_3:active,.sel_4:active{
+    background-color: grey;
+}
+.uk_lang{
+    width: 11px ;
+    height: 15px;
+    margin-top: 17px;
+
+}
+.en{
+    margin-top: 17px;
+    font-weight: 200;
+    font-size: 15px;
+}
+.span_items{
+    margin-left: 960px;
+    display: flex;
+    margin-top: 10px;
+}
+.uk_lang,.profile,.cart{
+    margin-right: 20px;
+
+
+}
+.profile{
+    width: 22px;
+    height: 16px;
+    margin-top: 17px;
+
+}
+.cart{
+    width: 23px;
+    margin-top: 17px;
+    height: 16px;
+}

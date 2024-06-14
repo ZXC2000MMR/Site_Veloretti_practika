@@ -1,0 +1,39 @@
+.emp_img{
+    width: 800px;
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-bottom: 100px;
+}
+.div_emp{
+    font-family: Raleway;
+    display: flex;
+    align-items: center;
+
+}
+.p_emp1{
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+.p_emp2{
+    font-size: 20px;
+}
+.but_emp{
+    border: none;
+    background-color: white ;
+    font-family: Raleway;
+    width: 17%;
+    height: 25px;
+}
+.but_emp:hover{
+    background-color: rgb(220,220,220) ;
+    border-radius: 5px;
+    cursor: pointer; 
+}
+.but_emp:active{
+    background-color: grey;
+}
+.text_emp{
+    margin-left: 240px;
+}

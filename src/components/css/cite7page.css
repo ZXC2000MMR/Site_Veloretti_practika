@@ -1,0 +1,43 @@
+.i1,.i2,.i3,.i4,.i5,.i6,.i7,.b1,.s1{
+    border-radius: 3px;
+    padding-left: 20px;
+    border-color: rgba(20, 22, 21, 0.1);
+    color: black;
+    width: 1190px;
+    height: 57px;
+    margin-left: 360px;
+    margin-bottom: 40px;
+    font-family: Raleway;
+}
+.s1{
+    width: 1217px;
+}
+.b1{
+    width: 1217px;
+    border-radius: 60px;
+    background-color: silver    ;
+}
+.i7{
+    height: 310px;
+    resize: none;
+    font-size: 14px;
+    padding-top: 20px;
+
+}
+.b1:hover{
+    background-color: rgba(218, 223, 225);
+}
+.b1:active{
+    background-color: rgba(191, 191, 191);
+}
+.div_req{
+    margin-top:240px ;
+}
+.i8{
+    color: black;
+    margin-left: 800px;
+    margin-bottom: 100px;
+    font-family: Raleway;
+    font-size: 50px;
+    font-weight: 400;
+}

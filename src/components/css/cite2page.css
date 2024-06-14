@@ -1,0 +1,40 @@
+.man_bike{
+    width: 800px;
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-bottom: 100px;
+}
+.div{
+    font-family: Raleway;
+    display: flex;
+    align-items: center;
+
+}
+.text{
+    margin-left: 240px
+}
+.p{
+    font-size: 50px;
+    font-weight: 500;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+.p1{
+    font-size: 20px;
+    bottom: px;
+}
+.but_3{
+    border: none;
+    background-color: white ;
+    font-family: Raleway;
+    width: 17%;
+    height: 25px;
+}
+.but_3:hover{
+    background-color: rgb(220,220,220) ;
+    border-radius: 5px;
+    cursor: pointer; 
+}
+.but_3:active{
+    background-color: grey;
+}

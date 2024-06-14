@@ -1,0 +1,8 @@
+/* Стиль для контейнера списка продуктов */
+.product-list {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}

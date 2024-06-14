@@ -1,0 +1,14 @@
+/* Стили для контейнера аккордеона */
+.accordion-container {
+    width: 60%;
+    margin: 0 auto;
+    font-family: Arial;
+}
+
+/* Стили для заголовка контейнера аккордеона */
+.accordion-container h1 {
+    font-size: 7rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    font-family: Arial;
+}

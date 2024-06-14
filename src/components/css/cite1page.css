@@ -1,0 +1,22 @@
+.div_bike{
+    position: relative;
+    font-family: Raleway;
+
+}
+.img_bike{
+    width: 100%;
+}
+.text_1{
+    position: absolute;
+    top: 0;
+    margin-top: 470px;
+    margin-left: 100px;
+    color: white;
+}
+.text_2{
+    position: absolute;
+    bottom: 450px;
+    left: 100px;
+    font-size: 70px;
+    color: white;
+}

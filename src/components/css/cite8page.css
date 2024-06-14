@@ -1,0 +1,29 @@
+.BN_div{
+    display: flex;
+    font-family: Raleway;
+    font-size: 16px;
+    background-image:url(../../images/d7cf7188279f94acecd3d67be45bf2d3.png);
+    color:white;
+    margin-top: 80px;
+}
+.but_bn{
+    border: none;
+    background-color: white;
+    border-radius: 60px;
+    width: 200px;
+    height: 50px;
+    font-family: Raleway;
+    margin-top: 18px;
+    margin-left: 240px;
+
+}
+.BN1_div{
+    margin-left: 480px;
+    display: flex;
+}
+.but_bn:hover{
+    background-color:    #dbdbdb;
+}
+.but_bn:active{
+    background-color: gray;
+}
